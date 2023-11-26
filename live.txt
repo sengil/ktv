@@ -3,4 +3,26 @@ KBS,http://61.111.129.183/Api/live.php?id=KBSHD&sid=.flv
 
 KBS2,http://61.111.129.183/Api/live.php?id=KBS2HD&sid=.flv
 
-SBS,http://61.111.129.183/Api/live.php?id=SBS2HD&sid=.flv
+SBS,http://61.111.129.183/Api/live.php?id=SBSHD&sid=.flv
+
+MBC,http://61.111.129.183/Api/live.php?id=MBCHD&sid=.flv
+
+TVN,http://61.111.129.183/Api/live.php?id=tvNHD&sid=.flv
+
+채널A,http://61.111.129.183/Api/live.php?id=ChannelAHD&sid=.flv
+
+TV조선,http://61.111.129.183/Api/live.php?id=TVcosunHD&sid=.flv
+
+TV조선2,http://61.111.129.183/Api/live.php?id=TVcosun2HD&sid=.flv
+
+YTN,http://61.111.129.183/Api/live.php?id=YTNHD&sid=.flv
+
+연합뉴스,http://61.111.129.183/Api/live.php?id=Yonhapnewstv&sid=.flv
+
+EBS1,http://61.111.129.183/Api/live.php?id=EBS1HD&sid=.flvf
+
+MBN,http://61.111.129.183/Api/live.php?id=MBNHD&sid=.flv
+
+OCNHD,http://61.111.129.183/Api/live.php?id=OCNHD&sid=.flv
+
+OCNMovies,http://61.111.129.183/Api/live.php?id=OCNMovies&sid=.flv
