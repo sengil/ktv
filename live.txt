@@ -19,7 +19,7 @@ YTN,http://61.111.129.183/Api/live.php?id=YTNHD&sid=.flv
 
 연합뉴스,http://61.111.129.183/Api/live.php?id=Yonhapnewstv&sid=.flv
 
-EBS1,http://61.111.129.183/Api/live.php?id=EBS1HD&sid=.flvf
+EBS1,http://61.111.129.183/Api/live.php?id=EBS1HD&sid=.flv
 
 MBN,http://61.111.129.183/Api/live.php?id=MBNHD&sid=.flv
 
