@@ -1,4 +1,4 @@
-﻿央视频道,#genre#
+
 KBS,http://61.111.129.183/Api/live.php?id=KBSHD&sid=.flv
 
 KBS2,http://61.111.129.183/Api/live.php?id=KBS2HD&sid=.flv
