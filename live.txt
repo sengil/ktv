@@ -1,5 +1,5 @@
 ﻿한국방송,#genre#
-KBS,http://61.111.129.183/Api/live.php?id=KBSHD&sid=.flv
+KBS,http://61.111.129.183/Api/live.php?id=KBS1HD&sid=.flv
 
 KBS2,http://61.111.129.183/Api/live.php?id=KBS2HD&sid=.flv
 
@@ -15,6 +15,8 @@ TV조선,http://61.111.129.183/Api/live.php?id=TVcosunHD&sid=.flv
 
 TV조선2,http://61.111.129.183/Api/live.php?id=TVcosun2HD&sid=.flv
 
+SBSPlusHD,http://61.111.129.183/Api/live.php?id=SBSPlusHD&sid=.flv
+
 YTN,http://61.111.129.183/Api/live.php?id=YTNHD&sid=.flv
 
 연합뉴스,http://61.111.129.183/Api/live.php?id=Yonhapnewstv&sid=.flv
@@ -26,3 +28,5 @@ MBN,http://61.111.129.183/Api/live.php?id=MBNHD&sid=.flv
 OCNHD,http://61.111.129.183/Api/live.php?id=OCNHD&sid=.flv
 
 OCNMovies,http://61.111.129.183/Api/live.php?id=OCNMovies&sid=.flv
+
+延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
